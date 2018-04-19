@@ -57,7 +57,7 @@ googleAnalytics = ""
 
       [[params.links.list1.link]]
         text = "Email"
-        url = "icyph0x@protonmail.com"
+        url = "mailto:icyph0x@protonmail.com"
 
       [[params.links.list1.link]]
         text = "Résumé"
