@@ -34,7 +34,7 @@ googleAnalytics = ""
     # Image
     [params.visual.image]
       enable = true
-      file = "https://ik.imagekit.io/icyphox/background_rJjHnDicG.jpg"
+      file = "https://thelfrun.sirv.com/cave_anirudh.jpg"
       position = "bottom left"
 
     # Video
